@@ -66,3 +66,54 @@ body {
     min-height: 2000px;
     background-repeat: no-repeat;
 }
+
+section.eu {
+    align-items:center;
+    text-align:center;
+    display:grid;
+
+}
+
+section.eu h2 {
+    font-size: 40px;
+    text-align: center;
+    color: black;
+    margin-top: 1300px;
+    margin-bottom : 12px;
+    font-family: 'Bebas Neue', cursive;
+}
+
+section.eu hr {
+    border-top : 5px solid black;
+    width : 60px;
+}
+
+div.infos {
+    margin-top : 50px;
+        border-radius:8px;
+        border: 1px solid white;
+        font-family: 'Bebas Neue', cursive;
+}
+
+.container {
+ display: table-caption;
+ text-align:left;
+}
+
+.picture {
+    padding-bottom : 20px;
+    text-align:center;
+}
+
+.texto p{
+    font-family: 'Nunito', sans-serif;
+}
+
+.texto2 p {
+    font-family: 'Nunito', sans-serif;
+}
+
+.texto3 p {
+    font-family: 'Nunito', sans-serif;
+}
+

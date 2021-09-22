@@ -63,6 +63,21 @@ header .logo {
 }
 
 body {
-    min-height: 2000px;
+    min-height: 1400px;
     background-repeat: no-repeat;
 }
+
+div.redes ul {
+    padding-top:1150px;
+    font-family: 'Bebas Neue', cursive;
+    font-size:30px;
+    color:Black;
+    text-decoration: none;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+  }
